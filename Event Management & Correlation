@@ -1,0 +1,3 @@
+Intelligent Network Solutions: Open-Source Platforms for Event Management & Correlation processes events from various sources, correlates them, and generates alarms to facilitate efficient monitoring.
+
+A Managed Service Provider users OpenNMS to offer network monitoring as a service for multiple clients. OpenNMS allows the MSP to create separate views for each client, showing only relevant devices and event for each network.
